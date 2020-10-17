@@ -2,13 +2,13 @@
 # BROWN SAGAN ML2021
 
 ## CONTRIBUTORS:
-- 18PA1A05F2 - SURYA VAMSI
+- 18PA1A05F2 - S.SURYA VAMSI CHAKRADHAR 
 - 18PA1A05F1 - V.SRUTHI
 - 19PA1A0218 - D.SURESH ROSHI
 
 
 
-### Resume Building ChatBot , Turn your CV into a conversation.
+## Resume Building ChatBot , Turn your CV into a conversation.
 
 With the help of Resume Building ChatBot you can build your own CV just simply by conversation with our bot instead of 
 spending hours in websites . With the bot interface and the smooth UI makes it effortless to create your CV by your own.
