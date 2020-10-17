@@ -1,14 +1,14 @@
 ![Logo Finalised](https://user-images.githubusercontent.com/61200479/96333038-391f9d00-1085-11eb-9ed3-f53bc9849a4f.png)
-# BROWN SAGAN ML2021
+## BROWN SAGAN ML2021
 
-## CONTRIBUTORS:
+### CONTRIBUTORS:
 - 18PA1A05F2 - S.SURYA VAMSI CHAKRADHAR 
 - 18PA1A05F1 - V.SRUTHI
 - 19PA1A0218 - D.SURESH ROSHI
 
 
 
-## Resume Building ChatBot , Turn your CV into a conversation.
+### Resume Building ChatBot , Turn your CV into a conversation.
 
 Resume Builder Chatbot is a conversational tool that can automate the process of designing CVs for the applicants.
 With the automation in this field, applicants with even no knowledge of making CVs can design an attractive and convincing CV.
