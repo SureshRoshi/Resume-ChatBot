@@ -10,6 +10,8 @@
 
 ## Resume Building ChatBot , Turn your CV into a conversation.
 
+Resume Builder Chatbot is a conversational tool that can automate the process of designing CVs for the applicants.
+With the automation in this field, applicants with even no knowledge of making CVs can design an attractive and convincing CV.
 With the help of Resume Building ChatBot you can build your own CV just simply by conversation with our bot instead of 
 spending hours in websites . With the bot interface and the smooth UI makes it effortless to create your CV by your own.
 This bot can live on any channel of your choice (such as LinkedIn, Slack etc.) by integrating it’s API with that platform.
