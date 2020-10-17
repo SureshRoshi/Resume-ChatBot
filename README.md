@@ -1,7 +1,7 @@
 ![Logo Finalised](https://user-images.githubusercontent.com/61200479/96333038-391f9d00-1085-11eb-9ed3-f53bc9849a4f.png)
-## BrownSagan ML2021
+# BROWN SAGAN ML2021
 
-# CONTRIBUTORS:
+## CONTRIBUTORS:
 - 18PA1A05F2 - SURYA VAMSI
 - 18PA1A05F1 - V.SRUTHI
 - 19PA1A0218 - D.SURESH ROSHI
