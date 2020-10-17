@@ -1,4 +1,4 @@
-
+![Logo Finalised](https://user-images.githubusercontent.com/61200479/96333038-391f9d00-1085-11eb-9ed3-f53bc9849a4f.png)
 # BrownSagan ML2021
 
 Team Members : 
