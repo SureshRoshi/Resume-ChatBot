@@ -32,7 +32,6 @@ It can help you in providing CV for your bright carrer!
 
 Packages and Resources referred
 #### Reference 1:
-pip install pyttsx3
 ptttsx3 - Text to Speech
 (Reference link - https://pypi.org/project/pyttsx3/)
 #### Reference 2:
