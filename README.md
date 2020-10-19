@@ -19,6 +19,9 @@ So that from any platform or from our website you can build your own resume in j
 It can help you in providing cv for your bright carrer!
 
 
+#### Block diagram of the functions and how they are connection with the description of inputs and outputs 
+
+
 
 
 
