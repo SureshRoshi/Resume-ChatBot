@@ -19,7 +19,7 @@ So that from any platform or from our website you can build your own resume in j
 It can help you in providing CV for your bright carrer!
 
 
-#### Block diagram of the functions and how they are connection with the description of inputs and outputs :
+#### Block diagram of the functions and how they are connected with the description of inputs and outputs :
 
 
 ![Mlbockdiagram](https://user-images.githubusercontent.com/61200479/96399526-2a072f00-11ec-11eb-9578-e0f071187727.JPG)
