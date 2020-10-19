@@ -25,7 +25,7 @@ It can help you in providing CV for your bright carrer!
 ![Mlbockdiagram](https://user-images.githubusercontent.com/61200479/96399526-2a072f00-11ec-11eb-9578-e0f071187727.JPG)
 
 ### Youtube Link
-![youtube link](https://img.youtube.com/vi/uo7uH4Q_5yk/0.jpg)](https://www.youtube.com/watch?v=uo7uH4Q_5yk)
+[![youtube link](https://img.youtube.com/vi/uo7uH4Q_5yk/0.jpg)](https://www.youtube.com/watch?v=uo7uH4Q_5yk)
 
 
 
