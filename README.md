@@ -24,15 +24,17 @@ It can help you in providing CV for your bright carrer!
 
 ![Mlbockdiagram](https://user-images.githubusercontent.com/61200479/96399526-2a072f00-11ec-11eb-9578-e0f071187727.JPG)
 
-### Youtube Link :
+## Youtube Link :
 
 [![youtube link](https://img.youtube.com/vi/uo7uH4Q_5yk/0.jpg)](https://www.youtube.com/watch?v=uo7uH4Q_5yk)
  
-### References : 
+## References : 
 
 Packages and Resources referred
+# Reference 1
 ptttsx3 - Text to Speech
 (Reference link - https://pypi.org/project/pyttsx3/)
+# Reference 2
 Flask - web framework to link html amd css to python
 (Reference link - https://pypi.org/project/Flask/)
   
