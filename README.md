@@ -33,15 +33,20 @@ It can help you in providing CV for your bright carrer!
 
 Packages and Resources referred
 #### Reference 1:
-pyttsx3 - Text to Speech
-
+pyttsx3 - Text to Speech 
 [![Pyttsx3 Version](https://img.shields.io/badge/pyttsx3-2.90-green)](https://pypi.org/project/pyttsx3/)
+	
+	pip install pyttsx3
+[pyttsx3](https://pypi.org/project/pyttsx3/) converts Text to speech.
 
 (Reference link - https://pypi.org/project/pyttsx3/)
+
 #### Reference 2:
 Flask - web framework to link html amd css to python
-
 [![Flask Version](https://img.shields.io/badge/flask-1.1.2-blue)](https://pypi.org/project/Flask/)
+
+	pip install Flask
+[flask](https://pypi.org/project/Flask/) Web framework to link html amd css to python
 
 (Reference link - https://pypi.org/project/Flask/)
 
