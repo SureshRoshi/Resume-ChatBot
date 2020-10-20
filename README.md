@@ -31,7 +31,7 @@ It can help you in providing CV for your bright carrer!
  
 ## Installation & References : 
 
-Packages and Resources referred
+### Packages and Resources referred
 #### Reference 1:
 pyttsx3 - Text to Speech 
 [![Pyttsx3 Version](https://img.shields.io/badge/pyttsx3-2.90-green)](https://pypi.org/project/pyttsx3/)
